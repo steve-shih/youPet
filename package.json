@@ -1,0 +1,19 @@
+{
+  "name": "youpet",
+  "version": "1.0.0",
+  "description": "init api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steve-shih/youPet.git"
+  },
+  "author": "steve shih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steve-shih/youPet/issues"
+  },
+  "homepage": "https://github.com/steve-shih/youPet#readme"
+}
